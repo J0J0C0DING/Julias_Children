@@ -18,9 +18,12 @@
 
 As a skilled home chef, I want to have the right recipe with precise ingredients, and an appropriate tool to make a top quality dishes is needed. Julia's Children is a forum for chefs so that they can find recipes that match their skills, and share their unique recipes and knowledge thus anyone on this forum can be a masterchef.
 
+## Deployed Application
+
+[Julia's Children](https://juliaschildren.herokuapp.com/).
+
 ## Installation
 
-Pleas click the link to get the access to the app: [Julia's Children](https://juliaschildren.herokuapp.com/).
 If you want to install the application, follow the link to [Public Repository](https://github.com/AlexandertheGreat491/Project-2.git).
 
 ![landing_page_screenshot](https://user-images.githubusercontent.com/64184203/184187198-3c0e8bc4-9dc4-4034-900f-574b28181f07.jpg)
