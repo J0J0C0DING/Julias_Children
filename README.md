@@ -1,41 +1,45 @@
 # Julia's children
+
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 ![Julia'schildren](https://img.shields.io/badge/Project-Julia'%20Children-green)
 ![Skill](https://img.shields.io/badge/Skill%20included-npm%20HTML%20CSS%20JAVA-blue)
 
 ## Table of Contents
 
-* [Description](#description)
-* [Installation](#installation)
-* [Usage](#usage)
-    * [As a viewer](#as-a-viewer)
-    * [As a member](#as-a-member)
-* [Credits](#credits)
-* [License](#license)
+- [Description](#description)
+- [Installation](#installation)
+- [Usage](#usage)
+  - [As a viewer](#as-a-viewer)
+  - [As a member](#as-a-member)
+- [Credits](#credits)
+- [License](#license)
 
 ## Description
+
 As a skilled home chef, I want to have the right recipe with precise ingredients, and an appropriate tool to make a top quality dishes is needed. Julia's Children is a forum for chefs so that they can find recipes that match their skills, and share their unique recipes and knowledge thus anyone on this forum can be a masterchef.
 
 ## Installation
-Pleas click the link to get the access to the app: [Julia's Children](https://secure-dusk-59698.herokuapp.com/).
+
+Pleas click the link to get the access to the app: [Julia's Children](https://juliaschildren.herokuapp.com/).
 If you want to install the application, follow the link to [Public Repository](https://github.com/AlexandertheGreat491/Project-2.git).
 
 ![landing_page_screenshot](https://user-images.githubusercontent.com/64184203/184187198-3c0e8bc4-9dc4-4034-900f-574b28181f07.jpg)
 
-
 ## Usage
+
 Chefs can find out recipe that can desire them to cook. They can [view and pick](#as-a-viewer) the recipe they like or [join-in](#as-a-member), posting their own recipe, discuss and making the dish better with their idea
 
 ### As a viewer
+
 Chefs can access to any recipe that match their skill and tool that they are practicing
 
 ![as a viewer](./public/images/screenshots/as-a-viewer.PNG)
 
 ### As a member
-Chefs need to create an ID 
+
+Chefs need to create an ID
 
 ![ID create](./public/images/screenshots/as-a-member.PNG)
-
 
 Once they become member, they can post their recipe
 
@@ -89,6 +93,7 @@ Collaborators:
 [Alex Van Dyke], [Tran Loi], [Joey Rebne], [Jordan Degerness]
 
 ## License
+
 ### MIT
 
 #### Copyright (c) [2022] [Alex Van Dyke],[Tran Loi],[Joey Rebne] and [Jordan Degerness]
@@ -99,10 +104,7 @@ Collaborators:
 
 ##### THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
 
-[Alex Van Dyke]:https://github.com/AlexandertheGreat491
-[Tran Loi]:https://github.com/LoiT1020
-[Joey Rebne]:https://github.com/J0J0C0DING
-[Jordan Degerness]:https://github.com/J0J0C0DING
-
-
-
+[alex van dyke]: https://github.com/AlexandertheGreat491
+[tran loi]: https://github.com/LoiT1020
+[joey rebne]: https://github.com/J0J0C0DING
+[jordan degerness]: https://github.com/J0J0C0DING
